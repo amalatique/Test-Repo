@@ -11,5 +11,8 @@ This is a test repository
  [a link](DA%20Project%20Cars.pdf)\
  [a relative link](README.md)\
  [a folder link](a%20folder)\
- [a file in a folder link](a%20folder/samplefile.txt)
+ [a file in a folder link](a%20folder/samplefile.txt)\
+ [a picture](a%20folder/hbx060116masterclass01-1550601705.jpg)
  
+ 
+ ![Model](a%20folder/hbx060116masterclass01-1550601705.jpg)
